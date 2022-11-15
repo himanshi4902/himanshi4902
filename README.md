@@ -2,7 +2,7 @@
 
 ## 📫 Connect with me on:
 
-<a href="https://www.linkedin.com/in/himanshi-sharma-949019205/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="sharmahimanshi0094@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/himanshi4902"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/himanshi-sharma-949019205/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="sharmahimanshi0094@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/himanshi090402"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 ## 👩‍💻 I am currently a
 
