@@ -17,6 +17,7 @@
 
 - Avery Dennison InvEnt Scholar'22
 - Student Starter pack 4.0 hackathon Winner
+- Postman Student Expert
 
 ## ❄️ More about me
 
