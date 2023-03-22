@@ -19,6 +19,7 @@
 - Student Starter pack 4.0 hackathon Winner
 - Postman Student Expert
 - Harvard WEAmplify Scholar'23
+- Equinox Hackathon Runner up 
 
 ## ❄️ More about me
 
