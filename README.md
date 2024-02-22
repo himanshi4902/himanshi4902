@@ -42,4 +42,4 @@ I'm Himanshi Sharma, an Information Technology undergraduate student at Indira G
 
 <img src="https://github-readme-stats.vercel.app/api?username=himanshi4902&show_icons=true&theme=radical" alt="github stats" width="45%" align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi4902&theme=radical" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi4902&theme=radical" width="47%" >
