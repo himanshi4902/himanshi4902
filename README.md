@@ -6,9 +6,9 @@ I'm Himanshi Sharma, an Information Technology undergraduate student at Indira G
 
 👨‍🎓 I'm currently pursuing my B.Tech in Information Technology.
 
-🚀 In the upcoming summer, I'm excited to embark on an internship journey with British Petroleum.
+🚀 In summer, I did my intern as software engineer at bp.
 
-⚡ I specialize in Data Structure and Algorithms and Frontend Development, and I'm currently diving into Machine Learning.
+⚡ I specialize in Data Structure and Algorithms and Web Development.
 
 🎯 My technical skills revolve around Javascript, which I use extensively in personal projects.
 
